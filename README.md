@@ -1,5 +1,4 @@
-#pendaftaran siswa
-projek pertama
+#pendaftaran siswa projek pertama
 
 
 #instalation
